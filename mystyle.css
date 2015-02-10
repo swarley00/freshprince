@@ -1,0 +1,13 @@
+body {
+	background-color: lightgrey;
+	margin: 0 auto;
+	text-align: justify;
+	max-width: 1024px;
+	font: 16px/18px "helvetica", sans-serif;
+	display: block;
+}
+
+h1 {
+	color: black;
+	text-align: center;
+}
